@@ -26,4 +26,6 @@
 
 # print("This is a sentence".count("e"))
 
-# print("This is a sentence".strip())
+# print("        This is a sentence        ")
+
+# print("        This is a sentence        ".strip())
