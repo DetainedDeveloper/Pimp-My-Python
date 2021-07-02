@@ -10,6 +10,8 @@
 
 # print("Hello " + 'world')
 
+# print("Hello world " * 3)
+
 # print("7598347590")
 
 # print("3.14159")

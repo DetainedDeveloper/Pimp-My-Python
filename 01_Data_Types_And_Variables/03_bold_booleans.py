@@ -27,3 +27,17 @@
 # print(type("Jay") is type("Jay2"))
 
 # print(type("Jay") is type(3))
+
+# print("Jay" is not "Jay2")
+
+# print(type("Jay") is not type("Jay2"))
+
+# print(type("Jay") is not type(3))
+
+# print(True or False)
+
+# print(True and False)
+
+# print(True and True)
+
+# print(False and False)
